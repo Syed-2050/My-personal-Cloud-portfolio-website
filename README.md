@@ -1,3 +1,4 @@
+
 # Syed Arif Ali — Cloud Engineer Portfolio
 
 ## Live Website
@@ -41,7 +42,7 @@ using AWS CLI from Linux terminal.
 
 ## Author
 **Syed Arif Ali**
-Cloud Engineer in Training
+Cloud Engineer
 
 - Email: Syedarif1907@gmail.com
 - LinkedIn: www.linkedin.com/in/syed-arif-a-a13782407
